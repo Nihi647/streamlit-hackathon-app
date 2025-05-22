@@ -1,0 +1,4 @@
+streamlit
+openai
+snowflake-connector-python
+pandas
